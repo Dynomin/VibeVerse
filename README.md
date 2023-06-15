@@ -1,6 +1,8 @@
 # VibeVerse
 A next gen social media app designed to connect people, share moments, and inspire creativity.
 
+## Figma Link: https://www.figma.com/file/tkikuyHMetgw0cpPnnkpz6/AngelHack%3A-VibeVerse?type=design&node-id=0%3A1&t=83eenvRGjfZPkQgB-1
+
 ## Introduction + Goals of the Application
 VibeVerse, a popular social media app, has embraced the exciting possibilities of the Web3 era. With the integration of blockchain technology and decentralized principles, VibeVerse has evolved into a platform that prioritizes user ownership, privacy, and innovation. 
 
@@ -22,3 +24,4 @@ In addition, VibeVerse supports NFTs (Non-Fungible Tokens) within its platform. 
 | Notifications | Stay up-to-date with notifications for likes, comments, mentions, and new followers. Never miss an important interaction or update. |
 | Search | Find specific users, posts, or hashtags with the search functionality. Easily navigate through the vast content available on Vibeverse. |
 | Privacy Settings | Manage your privacy and control who can see your posts and interact with you. Customize your profile visibility and choose who can message you. |
+
