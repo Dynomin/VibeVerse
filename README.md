@@ -1,5 +1,5 @@
 # VibeVerse
-A next gen social media app to share content across diffent users around the world.
+A next gen social media app designed to connect people, share moments, and inspire creativity.
 
 ## Introduction + Goals of the Application
 VibeVerse, a popular social media app, has embraced the exciting possibilities of the Web3 era. With the integration of blockchain technology and decentralized principles, VibeVerse has evolved into a platform that prioritizes user ownership, privacy, and innovation. 
