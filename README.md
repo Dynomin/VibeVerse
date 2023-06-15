@@ -25,3 +25,8 @@ In addition, VibeVerse supports NFTs (Non-Fungible Tokens) within its platform. 
 | Search | Find specific users, posts, or hashtags with the search functionality. Easily navigate through the vast content available on Vibeverse. |
 | Privacy Settings | Manage your privacy and control who can see your posts and interact with you. Customize your profile visibility and choose who can message you. |
 
+## 🧑‍💻 Tech we used:
+1. Figma
+2. Pixaby
+3. Iconify
+4. Mid-journey
